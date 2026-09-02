@@ -21,17 +21,16 @@ Desarrollar la plataforma digital BIBI integrada a sensores para monitorear el m
 
 ## Estado del Proyecto
 Fase 1: Estructuración de la plataforma web y publicación de repositorios base.
-# [yulieth quintana]
+# Yulieth Quintana
 
 ## Mis Hobbies
-- Leer libros 
+- Leer libros
 - Dormir
-- Escuchar música 
+- Escuchar música
 
 ## Mis Tecnologías Favoritas
 1. Tik tok
 2. Instagram
 3. Whatsapp
 
-## Sobre la Tecnología
-La **tecnología** me encanta porque me ayuda a mantenerme conectado de forma *divertida* con mis amigos. Mi sitio web favorito es [YouTube](https://www.youtube.com) 
+La **tecnología** me encanta porque me ayuda a mantenerme conectado de forma *divertida* con mis amigos. Mi sitio web favorito es [YouTube](https://www.youtube.com)
